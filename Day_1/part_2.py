@@ -12,7 +12,7 @@ In this example, the calibration values are 29, 83, 13, 24, 42, 14, and 76. Addi
 
 import re
 
-# numbers_but_words = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
+numbers_but_words = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"]
 
 # test_list:list = re.findall(pattern="(?=(one|two|three|four|five|six|seven|eight|nine|\d))",string="oneight")
 
